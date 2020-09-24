@@ -1,0 +1,33 @@
+body{
+    font-family: 'Kanit', sans-serif;
+}
+
+.img-cover{
+    height: auto;
+    object-fit: cover;
+    text-align: left;
+}
+
+.carousel-indicators li {
+    width: 10px!important;
+    height: 10px!important;
+    background-color: #fff !important;
+    border-radius: 50%;
+    
+}
+
+.carousel-indicators .active {
+    background-color: #187BC1 !important;
+}
+
+
+.btn-footer{
+    background-color: #187BC1;
+    color: #fff;
+    width: 220px;
+    height: 60px;
+    
+}
+.btn-footer:hover{
+    box-shadow: 0px 3px 6px #000000;
+}
